@@ -14,7 +14,7 @@
 </p>
   
 ### En Son Repo'm
-<p align="center"> [![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats) </p>
+[![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats) 
 ### Github İstatistiklerim
 [![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=matr1e&show_icons=true&bg_color=DEG,COLOR10,COLOR3)]
 ### Çokça Kullandığım Programlama Dil(ler)i
