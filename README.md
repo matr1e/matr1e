@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=matr1e-supervizor)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=matr1e)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matr1e&layout=compact&theme=tokyonight)
