@@ -3,6 +3,8 @@
 <a href="https://github.com/matr1e"></a><img src="./matr1e.svg"></img>
 </p>
 
+# ![](https://gitwar.herokuapp.com/badge?username=your-github-username&color=green)
+
 ## <p align="center">  🌍 Social Media </p>
 
 <p align="center">
