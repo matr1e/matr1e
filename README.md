@@ -13,14 +13,8 @@
 <a href="https://discord.com/users/c" align="center"><img src="https://img.shields.io/badge/Matrié%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) <p align="center"> 
-<img src="https://lanyard-profile-readme.vercel.app/api/927598578757664769?theme=light&bg=0372ad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."> </img>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/927598578757664769?theme=light&bg=0372ad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/927598578757664769)
 
-
-<p align="center">
-  <img src=="https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"></img>
-</p>
   
 ### En Son Repo'm
 [![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats) 
