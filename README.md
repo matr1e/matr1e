@@ -15,17 +15,9 @@
 ### <p align="center"> En Son Repo'm </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot"></img>
-</p> 
-
-### <p align="center">Github İstatistiklerim </p>
-
-<p align="center">
+</p> ### <p align="center">Github İstatistiklerim </p> <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=matr1e&show_icons=true&bg_color=DEG,COLOR10,COLOR3">
-</p>
-
-### <p align="center"> Çokça Kullandığım Programlama Dil(ler)i </p>
-
-<p align="center">
+</p> ### <p align="center"> Çokça Kullandığım Programlama Dil(ler)i </p> <p align="center">
 <img align="center", src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
 </p>
 
