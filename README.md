@@ -24,7 +24,7 @@
 
 ### <p align="center"> Çokça Kullandığım Programlama Dil(ler)i </p> 
 <p align="center">
-<img align="center", src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
+<img align="center", src="https://github-readme-stats.vercel.app/api/top-langs/?username=matr1e&layout=compact"></img>
 </p>
 
 
