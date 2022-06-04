@@ -18,7 +18,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src=="https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"></img>
+</p>
   
 ### En Son Repo'm
 [![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats) 
