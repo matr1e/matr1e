@@ -2,9 +2,9 @@
 
 
 ### En Son Repo'm
-[![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats)
+![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats)
 ### Github İstatistiklerim
-[![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=matr1e&show_icons=true&theme=graident)
+![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=matr1e&show_icons=true&bg_color=COLOR10,COLOR3)
 ### Çokça Kullandığım Programlama Dil(ler)i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matr1e&layout=compact&theme=tokyonight)
 
