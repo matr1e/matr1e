@@ -15,7 +15,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/927598578757664769?theme=light&bg=0372ad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...))](https://discord.com/users/927598578757664769)
 
-
+<p align="center"> 
+<img src="https://lanyard-profile-readme.vercel.app/api/927598578757664769?theme=light&bg=0372ad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."> </img>
+</p>
 
   
 ### En Son Repo'm
