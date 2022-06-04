@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Stats](http://github-readme-streak-stats.herokuapp.com?user=matr1e&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=tr&border=DD2727&sideNums=FF5910)](https://git.io/streak-stats)
+[![Github İstatistiklerim](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matr1e&layout=compact&theme=tokyonight)]
 
 
