@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-[   <a href="https://github.com/matr1e"></a><img src="./matr1e.svg"></img>
+<p align="center">
+<a href="https://github.com/matr1e"></a><img src="./matr1e.svg"></img>
+</p>
 
 ### En Son Repo'm
 [![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats)
