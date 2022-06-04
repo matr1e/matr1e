@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://github.com/matr1e/nice-stats/raw/master/github_stats.svg
 
 ### En Son Repo'm
 [![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats)
