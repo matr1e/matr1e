@@ -3,7 +3,7 @@
 <a href="https://github.com/matr1e"></a><img src="./matr1e.svg"></img>
 </p>
 
-<p align="center">
+
 ### En Son Repo'm
 [![En Son Repo'm](https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot)](https://github.com/anuraghazra/github-readme-stats)
 ### Github İstatistiklerim
@@ -11,6 +11,7 @@
 ### Çokça Kullandığım Programlama Dil(ler)i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matr1e&layout=compact&theme=tokyonight)
 
+<p align="center">
 ## 🌍 Social Media
 
 <a href="https://discord.com/users/927598578757664769"><img src="https://img.shields.io/badge/Matrié%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
