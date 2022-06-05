@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/matr1e/"><img src="https://img.shields.io/badge/Matrié%20-D90070.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"></img> <img align="center" src="https://lanyard-profile-readme.vercel.app/api/927598578757664769?theme=light&bg=0372ad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."></img>
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31rztp4eqaxbifu4twrgho3vbg2e&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false"></img> <img align="center" src="https://lanyard-profile-readme.vercel.app/api/927598578757664769?theme=light&bg=0372ad&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Şuan%20hiçbir%etkinlik%20yapmıyor..."></img>
 
 ### <p align="center"> En Son Repo'm </p>
 <p align="center">
