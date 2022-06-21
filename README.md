@@ -16,7 +16,7 @@
 
 ### <p align="center"> En Son Repo'm </p>
 <p align="center">
-<img align="center", src="https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=supervizor-bot"></img>
+<img align="center", src="https://github-readme-stats.vercel.app/api/pin/?username=matr1e&repo=slash-command-register"></img>
 </p>
 
 ### <p align="center">Github İstatistiklerim </p> 
