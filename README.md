@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋 </p>
 <p align="center">
-<a href="https://github.com/matr1e"></a><img src="./matr1e.svg"></img>
+<a href="https://github.com/matr1e"></a><img src="https://github.com/matr1e/nice-stats/raw/master/github_stats.svg"></img>
 </p>
 
 
